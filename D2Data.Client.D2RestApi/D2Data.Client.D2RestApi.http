@@ -1,0 +1,6 @@
+@D2Data.Client.D2RestApi_HostAddress = http://localhost:5165
+
+GET {{D2Data.Client.D2RestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@D2Data.Server.SQLiteWorldContentService_HostAddress = http://localhost:5130
+
+GET {{D2Data.Server.SQLiteWorldContentService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
